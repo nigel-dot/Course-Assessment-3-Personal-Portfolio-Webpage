@@ -1,0 +1,28 @@
+:target {
+  display: block;
+  position: relative;
+  top: -52px;
+  visibility: hidden;
+}
+#welcome h1 {
+  font-size: 30px;
+}
+#proj section {
+  display: block;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+.container {
+  display: block;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+h2 {
+  font-size: 24px;
+}
+h3 {
+  font-size: 18px;
+}
+footer {
+  text-align: center;
+}
